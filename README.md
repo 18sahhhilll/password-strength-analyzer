@@ -247,6 +247,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 **[⭐ Star this repo](https://github.com/yourusername/password-analyzer)** • **[🐛 Report Bug](https://github.com/yourusername/password-analyzer/issues)** • **[💡 Request Feature](https://github.com/yourusername/password-analyzer/issues)**
 
-Made with ❤️ and ☕ by [Sahil Sangle]((https://github.com/18sahhhilll))
+Made with ❤️ and ☕ by [Sahil Sangle](https://github.com/18sahhhilll)
 
 </div>
